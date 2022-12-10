@@ -1,4 +1,4 @@
-# desmos.orbital_computer
+# desmos.orbital_docking_computer
 + an orbital docking computer created with desmos
 + [link to program](https://www.desmos.com/calculator/1ujdmm67rz)
 
